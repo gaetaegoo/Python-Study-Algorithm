@@ -1,3 +1,3 @@
 # Python-Study-Algorithm
-🍋쟌쟌의 브랜치
+알고리즘 스터디 개인 
 
